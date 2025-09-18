@@ -22,7 +22,7 @@
 - 如果你的路徑不同，請將路徑改成你的實際位置（例如 Windows 可用 `C:\\donwload\\chromedriver.exe`）。
 
 如何取得 ChromeDriver：
-- 前往官方網站（https://developer.chrome.com/docs/chromedriver/downloads），
+- 前往官方網站https://developer.chrome.com/docs/chromedriver/downloads
 - 下載與你 Chrome 相同版本的 ChromeDriver，解壓縮後記下放置位置。
 
 **如何執行**
