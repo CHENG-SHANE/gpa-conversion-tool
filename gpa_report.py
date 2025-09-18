@@ -14,7 +14,6 @@ LOGIN_URL = 'https://sys.ndhu.edu.tw/CTE/Ed_StudP_WebSite/Login.aspx'
 
 
 def create_chrome_driver(chromedriver_path: str, headless: bool = False):
-    """Create a Chrome WebDriver compatible with Selenium 3 and 4."""
     options = webdriver.ChromeOptions()
     if headless:
         options.add_argument("--headless")
